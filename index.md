@@ -1,5 +1,5 @@
 ---
-title: Edited Title!!!!
+title: Edited Title
 ---
 
 This is the home page
